@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jörg Höttges. I work as a professor in Aachen.
+- 👋 Hi, I’m Jörg Höttges working as a professor in Aachen.
 - 👀 I’m interested in hydrologie and especially in data structures in urban drainage planning
 - 📫 My homepage is www.fh-aachen.de/menschen/hoettges
 
